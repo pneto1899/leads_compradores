@@ -7,9 +7,9 @@
 Você trabalha em uma empresa do tipo e-commerce que vende produtos para cabelo personalizados. Para personalizar o produto, a empresa solicita que o cliente preencha um formulário onde irá contar sobre a sua rotina e seu cabelo. Após finalizar o preenchimento, o cliente é direcionado automaticamente para o checkout, onde ele irá optar por fechar a compra ou não.
 A experiência de venda online é baseada em três etapas:
 
-Preenchimento do formulário
-Seleção dos produtos
-Fechamento da compra
+- Preenchimento do formulário
+- Seleção dos produtos
+- Fechamento da compra
 
 **Problema:**
 
