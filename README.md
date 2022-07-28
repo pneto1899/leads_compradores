@@ -34,9 +34,10 @@ A metodologia utilizada no desenvolvimento desse algoritmo foi:
 - Ligação entre as 3 tabelas
 - Criação de um novo Data frame com as seguintes features: sistema_operacional; estado, qtde_lavagem_semana, tipo_cabelo, comprimento, tipo_fios, tempo_procedimento, dieta, atividade_fisica, frequencia_estresse, faixa_etaria, fragancia, dia_semana, num_efeitos_desejados, num_caracteristica, num_procedimentos, target
 - Análise dos dados: Distribuição dos dados e plotagem da contagem dos dados de todas as features;
-- Divisão dos dacos em categóricos e numéricos
+- Divisão dos dados em categóricos e numéricos
 - Encoder dos dados categóricos
 - Normalização dos dados
+- Divisão em treino e teste
 - Utilização do Random Forest Classifier para geração do algoritmo
 - Utilização das métricas: Acurácia; Precisão; Recall; F1 e AUC para avaliação do modelo
 - Visualização das Features que mais impactam no modelo
